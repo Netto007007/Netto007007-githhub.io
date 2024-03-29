@@ -1,0 +1,101 @@
+body{
+    background:linear-gradient(pink, rgb(253, 214, 214)) ;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title-p h1 {
+     font-size: 100px;
+     padding: 0;
+     color: rgb(212, 1, 124);
+     margin-bottom: 0;
+     transition: all 0.4s;
+}
+.title-p h2{
+    font-size: 30px;
+    color:rgb(195, 0, 255);
+    transition: all 0.4s;
+}
+.title-p h1:hover{
+    opacity: 0.6;
+}
+.title-p h2:hover{
+    opacity: 0.6;
+}
+.question-1 h1{
+    color: rgb(132, 0, 255);
+}
+.question-2 h1{
+    color: rgb(132, 0, 255);
+}
+.question-2 h2{
+    color:gray;
+}.question-3 h1{
+    color: rgb(132, 0, 255);
+}
+.question-3 h2{
+    color:gray;
+}
+.question-4 h1{
+    color: rgb(132, 0, 255);
+}
+.question-4 h2{
+    color:gray;
+}
+.question-5 h1{
+    color: rgb(132, 0, 255);
+}
+.question-5 h2{
+    color:gray;
+}
+.question-1 input{
+    background: black;
+    border-radius: 10px 10px 10px 10px;
+    width: 300px;
+    color: gray;
+    border: none;
+    height: 20px;
+}
+.question-2 input{
+    background: black;
+    border-radius: 10px 10px 10px 10px;
+    width: 300px;
+    color: gray;
+    border: none;
+    height: 20px;
+}
+.question-3 input{
+    background: black;
+    border-radius: 10px 10px 10px 10px;
+    width: 300px;
+    color: gray;
+    border: none;
+    height: 20px;
+}
+.question-4 input{
+    background: black;
+    border-radius: 10px 10px 10px 10px;
+    width: 300px;
+    color: gray;
+    border: none;
+    height: 20px;
+}
+.question-5 input{
+    background: black;
+    border-radius: 10px 10px 10px 10px;
+    width: 300px;
+    color: gray;
+    border: none;
+    height: 20px;
+}
+.link-p2{
+    padding: 20px;
+}
+.link-p2 a{
+    text-decoration: none;
+    color: rgb(39, 38, 38);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+

@@ -1,0 +1,44 @@
+body{
+    background:linear-gradient(pink, rgb(253, 214, 214)) ;
+    align-items: center;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100%;
+}
+header{
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+}
+header h1{
+    color: rgb(212, 1, 124) ;
+    font-size: 100px;
+}
+header h2{
+    color: rgb(195, 0, 255);
+    font-size: 30px;
+}
+main{
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+}
+main input{
+    width: 900px;
+    margin-top: 50px;
+    height: 180px;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+    background: black;
+    color: gray;
+    font-size: 100px;
+    align-items: center;
+
+}
+footer a{
+    text-decoration: none;
+    color: gray;
+    font-size: 50px;
+    margin-left: 20px;
+}
